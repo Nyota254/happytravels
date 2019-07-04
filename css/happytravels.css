@@ -11,3 +11,6 @@ img {
   width:  200px;
   length: 200px;
 }
+body {
+  background-color: yellow;
+}
