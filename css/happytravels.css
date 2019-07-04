@@ -12,5 +12,11 @@ img {
   length: 200px;
 }
 body {
-  background-color: yellow;
+  background-color: black;
+}
+li {
+  color:  #00FFFF;
+}
+.tropical {
+  color: #808000;
 }
