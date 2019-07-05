@@ -14,9 +14,9 @@ img {
 body {
   background-color: black;
 }
-li {
-  color:  #00FFFF;
-}
 .tropical {
   color: #808000;
+}
+.popular {
+  color:  #00FFFF
 }
